@@ -25,7 +25,7 @@
 javac *.java; 
 
 - с GUI
-java GraphGUI
+java ElevatorSystem
 
 - без GUI
 java ElevatorSystem nogui
