@@ -21,5 +21,11 @@
 
 ## Запуск
 в баше
+- скомпилировать файлы
 javac *.java; 
+
+- с GUI
 java GraphGUI
+
+- без GUI
+java ElevatorSystem nogui
